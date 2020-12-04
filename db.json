@@ -1,7 +1,7 @@
 {
     "table_data": {
         "status": "successful",
-        "fields": ["fieldname1", "fieldname2"],
+        "fields": ["field_name1", "field_name2"],
         "data":[
             {
             "student_id": 1,
