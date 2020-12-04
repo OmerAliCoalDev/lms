@@ -1,0 +1,18 @@
+{
+    "status": "successful",
+    "fields": ["fieldname1", "fieldname2"],
+    "data":[
+        {
+        "student_id": 1,
+        "student_name": "Mark zuckerberg",
+        "field_name1": 9,
+        "field_name2":6
+        },
+        {
+        "student_id": 2,
+        "student_name": "Jeff Bezos",
+        "field_name1": 9,
+        "field_name2":6
+        }
+    ]
+}
