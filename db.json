@@ -36,5 +36,35 @@
             "hygiene":0
             }
         ]
+    },
+    "attendance": {
+        "data": [
+            {
+                "date": "2020-12-30 20:00:00",
+                "attendance": [
+                    {
+                        "student_id": 1,
+                        "status": "present"
+                    },
+                    {
+                        "student_id": 2,
+                        "status": "present"
+                    }
+                ]
+            },
+            {
+                "date": "2020-12-29 20:00:00",
+                "attendance": [
+                    {
+                        "student_id": 1,
+                        "status": "present"
+                    },
+                    {
+                        "student_id": 2,
+                        "status": "present"
+                    }
+                ]
+            }
+        ]
     }
 }
