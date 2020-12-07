@@ -16,5 +16,25 @@
             "field_name2":6
             }
         ]
+    },
+    "add_field": {
+        "status": "successful",
+        "fields": ["field_name1", "field_name2", "hygiene"],
+        "data":[
+            {
+            "student_id": 1,
+            "student_name": "Mark zuckerberg",
+            "field_name1": 9,
+            "field_name2":6,
+            "hygiene": 0
+            },
+            {
+            "student_id": 2,
+            "student_name": "Jeff Bezos",
+            "field_name1": 9,
+            "field_name2":6,
+            "hygiene":0
+            }
+        ]
     }
 }
