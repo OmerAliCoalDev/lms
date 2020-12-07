@@ -51,6 +51,10 @@
                         "status": "present"
                     },
                     {
+                        "date": "12/14/2020",
+                        "status": "absent"
+                    },
+                    {
                         "date": "12/15/2020",
                         "status": "present"
                     }
@@ -65,8 +69,12 @@
                         "status": "present"
                     },
                     {
-                        "date": "12/15/2020",
+                        "date": "12/13/2020",
                         "status": "present"
+                    },
+                    {
+                        "date": "12/15/2020",
+                        "status": "leave"
                     }
                 ]
             }
